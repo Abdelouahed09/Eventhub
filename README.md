@@ -215,7 +215,7 @@ afin d'empêcher une double inscription au même événement.
 ### 1. Cloner le projet
 
 ```bash
-git clone <URL_DU_REPOSITORY>
+git clone https://github.com/Abdelouahed09/Eventhub.git
 cd Eventhub
 ```
 
